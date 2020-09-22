@@ -9,6 +9,12 @@
       "dogBreed": "Giant Schnauzer",
       "id": 2
     }
+  },
+  {
+    "dogName": "Byron",
+    "dogBreed": "Poodle",
+    "id": 3
+  }
   ],
   "cats": [{
       "catName": "Stanley",
