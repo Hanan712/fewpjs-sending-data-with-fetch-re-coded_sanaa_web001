@@ -56,9 +56,5 @@
       "id": 9000
     }
   ]
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  
 }
